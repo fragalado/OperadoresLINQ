@@ -1,0 +1,7 @@
+C:\Users\ruben\Desktop\borrar\ejercicioLinq\ejercicioLinq\bin\Debug\ejercicioLinq.exe.config
+C:\Users\ruben\Desktop\borrar\ejercicioLinq\ejercicioLinq\bin\Debug\ejercicioLinq.exe
+C:\Users\ruben\Desktop\borrar\ejercicioLinq\ejercicioLinq\bin\Debug\ejercicioLinq.pdb
+C:\Users\ruben\Desktop\borrar\ejercicioLinq\ejercicioLinq\obj\Debug\ejercicioLinq.csproj.AssemblyReference.cache
+C:\Users\ruben\Desktop\borrar\ejercicioLinq\ejercicioLinq\obj\Debug\ejercicioLinq.csproj.CoreCompileInputs.cache
+C:\Users\ruben\Desktop\borrar\ejercicioLinq\ejercicioLinq\obj\Debug\ejercicioLinq.exe
+C:\Users\ruben\Desktop\borrar\ejercicioLinq\ejercicioLinq\obj\Debug\ejercicioLinq.pdb
